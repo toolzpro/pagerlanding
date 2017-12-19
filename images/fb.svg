@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Start" transform="translate(-48.000000, -585.000000)">
+            <g id="Group-4" transform="translate(28.000000, 527.000000)">
+                <g id="fb" transform="translate(15.000000, 56.000000)">
+                    <path d="M7.56551909,16 L7.54545455,9.63636364 L5,9.63636364 L5,7.09090909 L7.54545455,7.09090909 L7.54545455,5.5 C7.54545455,3.1382 9.00802182,2 11.1149073,2 C12.1241291,2 12.9914991,2.07513545 13.2442755,2.10872273 L13.2442755,4.57694182 L11.7830382,4.57760364 C10.6371955,4.57760364 10.4153336,5.12208909 10.4153336,5.92108818 L10.4153336,7.09090909 L13.75,7.09090909 L12.4772727,9.63636364 L10.4153336,9.63636364 L10.4153336,16 L7.56551909,16 Z" id="Mask" fill="#7D5FF5"></path>
+                    <rect id="Bounding-Box" x="0" y="0" width="18" height="18"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

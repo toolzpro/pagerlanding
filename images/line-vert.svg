@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="92px" viewBox="0 0 12 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>line-vert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Start" transform="translate(-634.000000, -1.000000)">
+            <g id="line-vert" transform="translate(640.000000, 47.000000) rotate(90.000000) translate(-640.000000, -47.000000) translate(594.000000, 41.000000)">
+                <path d="M3.81639165e-17,6 L88,6" id="Line-Copy" stroke="#74E7DF" stroke-linecap="square" stroke-dasharray="2,4"></path>
+                <circle id="Oval-2-Copy-5" fill="#74E7DF" cx="86" cy="6" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
