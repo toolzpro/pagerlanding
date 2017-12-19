@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="88px" viewBox="0 0 91 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>5line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Start" transform="translate(-825.000000, -557.000000)">
+            <g id="Group-9" transform="translate(672.000000, 482.000000)">
+                <g id="Group-6" transform="translate(62.000000, 0.000000)">
+                    <g id="5line" transform="translate(135.770340, 117.926462) rotate(44.000000) translate(-135.770340, -117.926462) translate(73.770340, 111.426462)">
+                        <path d="M0.832049777,6.6839612 L119.497312,6.6839612" id="Line-Copy" stroke="#987EFB" stroke-linecap="square" stroke-dasharray="2,4"></path>
+                        <circle id="Oval-2-Copy-5" fill="#987EFB" cx="117.497312" cy="6.6839612" r="6"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

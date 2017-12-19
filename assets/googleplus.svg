@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>googleplus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Start" transform="translate(-31.000000, -603.000000)">
+            <g id="Group-4" transform="translate(28.000000, 527.000000)">
+                <g id="googleplus" transform="translate(1.000000, 73.000000)">
+                    <path d="M15.6100012,8.99999647 L9.41176471,8.99632353 L9.41176471,11.4669118 L12.9538388,11.4669118 C12.7626812,12.5125553 11.71558,14.4199894 9,14.4199894 C6.60998588,14.4199894 4.65998353,12.4399776 4.65998353,10 C4.65998353,7.56002235 6.60998588,5.58001059 9,5.58001059 C10.3600012,5.58001059 11.2699847,6.16000588 11.7900188,6.65998706 L13.6900082,4.83001412 C12.4699906,3.68997765 10.8899835,3 9,3 C5.13000471,3 2,6.13000471 2,10 C2,13.8699953 5.13000471,17 9,17 C13.8158188,17 16.2963965,13.0028024 15.6100012,8.99999647 Z" id="Mask" fill="#F432E9"></path>
+                    <rect id="Bounding-Box" x="0" y="0" width="18" height="18"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
